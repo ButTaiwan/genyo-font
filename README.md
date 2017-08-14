@@ -1,3 +1,5 @@
+![banner](genyo-cover-tw.png?raw=true)
+
 # 源樣明體
 
 「源樣明體」是基於[思源宋體](https://github.com/adobe-fonts/source-han-serif/)的開放原始碼中文字型。

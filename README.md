@@ -1,6 +1,6 @@
-![banner](genyo-cover-tw.png?raw=true)
+# 繁體中文
 
-# 源樣明體
+![banner](genyo-cover-tw.png?raw=true)
 
 「源樣明體」是基於[思源宋體](https://github.com/adobe-fonts/source-han-serif/)的開放原始碼中文字型。
 採用思源宋體韓文（KR）版本的字符，配合繁體中文慣用的置中標點，可排版傳統印刷體風格的文件。
@@ -39,6 +39,7 @@
 
 ### 解決一些其他思源宋體使用上的雜問題
 
+* ‘’“” 四個符號，改用半形版本，讓 It’s 之類英文排列正常。（因台灣多用「」引號，少用“”）
 * 解決在Illustrator中，文字行高過高，不容易選到正確行的問題。
 * 解決在Word中，標準文字大小12pt時文字佔兩倍行高的問題。
 

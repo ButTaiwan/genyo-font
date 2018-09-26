@@ -70,6 +70,7 @@
     * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
     * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
 
+---
 
 # 日本語
 「源様明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。

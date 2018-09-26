@@ -61,6 +61,16 @@
 歡迎提供測試反饋，請直接反饋在GitHub的Issues中。
 未來亦不保證持續跟隨思源宋體升版。
 
+## 著作權與授權
+
+* 本字型是基於 SIL Open Font License 1.1 改造Adobe所開發、發表的「[思源宋體](https://github.com/adobe-fonts/source-han-serif/)」字型。
+
+* 本字型亦基於 SIL Open Font License 1.1 授權條款免費公開，關於授權合約的內容、免責事項等細節，請詳讀 License 文件。
+
+    * 本字型可自由使用在印刷、影像、網路或任何媒體上，不限個人或商業使用。
+    * 您可基於 SIL Open Font License 1.1 的規定再散佈或改造本字型。
+
+
 # 日本語
 「源様明朝」は[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)から派生されたフリーフォントです。
 
@@ -95,3 +105,12 @@
 
 これはベータバージョンです。
 予告なく大幅に仕様が変わる可能性あり。
+
+## ライセンスと著作権
+
+* このフォントは、Adobe社が開発・公開している「[源ノ明朝](https://github.com/adobe-fonts/source-han-serif/)」を SIL Open Font License 1.1 のもとで改変したフォントです。
+
+* このフォントは SIL Open Font License 1.1 のもとで無償にて公開します。免責条項などに関してはライセンスをご確認ください。
+　
+    * 利用者はこのフォントを使用した制作物を有償・無償を問わず自由に公開・配布することが出来ます。 　
+    * このフォントに対して SIL Open Font License 1.1 で定められた制限のもとで再配布や改変を行うことが出来ます。

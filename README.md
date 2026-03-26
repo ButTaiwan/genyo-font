@@ -1,6 +1,6 @@
 ![源樣明體/源様明朝](https://buttaiwan.github.io/font/pics/genyo.png)
 
-# 源樣明體 & 源起明體 (GenYo Serif & Genki Serif)
+# 源樣明體 & 源起明體 | 源様明朝 & 源起明朝 | GenYo Serif & Genki Serif
 
 [繁體中文](#繁體中文) | [日本語](#日本語) | [English](#english)
 
@@ -8,7 +8,7 @@
 
 ## 繁體中文
 
-「源樣明體」系列是基於思源宋體 (Source Han Serif) 的開放原始碼中文字型。本專案透過自動化程式調整，使其更接近傳統印刷體的審美風格。在 **Ver 2.000** 經歷了重大的底本更新、字集擴充，並新增了衍生系列「源起明體」。
+「源樣明體」系列是基於思源宋體 (Source Han Serif) 的開放原始碼中文字型。本專案透過自動化程式調整，使其更接近傳統印刷體的審美風格。在 Ver 2.000 中，正式新增了「源起明體」系列——針對「TW (月版)」因部件來源不一導致的楷化轉折不協調進行了斷筆處理，視覺更趨一致。本系列亦是後續「源流」、「源雲」等字型的開發基礎。
 
 ### 🌟 Ver 2.0 / 2.1 更新核心
 
@@ -31,7 +31,7 @@
 
 ## 日本語
 
-「源様明朝」および「源起明朝」は、Adobe の「源ノ明朝 (Source Han Serif)」をベースに開発された、伝統的な活字スタイルを目指したフリーフォントです。
+「源様明朝」および「源起明朝」は、Adobe の「源ノ明朝 (Source Han Serif)」をベースに開発された、伝統的な活字スタイルを目指したフリーフォントです。Ver 2.000 では、TW 版などで見られたエレメントの不整合を解消するため、プログラムによる断筆処理を施した「源起明朝」シリーズを追加しました。本シリーズは、後に続く「源流明朝」や「源雲明朝」の開発ベースとなっています。
 
 ### 🌟 Ver 2.0 / 2.1 の主な変更点
 
@@ -50,7 +50,7 @@
 
 ## English
 
-**GenYo Serif** and **Genki Serif** are open-source Pan-CJK font families derived from Adobe’s **Source Han Serif**. They provide an optimized typographic experience for both Traditional Chinese and Japanese users through localized glyph variants and refined spacing.
+**GenYo Serif** and **Genki Serif** are open-source Pan-CJK font families derived from Adobe’s Source Han Serif. They are designed to emulate the aesthetic of traditional typeface printing through localized glyph variants. Starting from Ver 2.000, Genki Serif was introduced as a new branch featuring automated "broken-stroke" processing to unify disparate glyph origins, serving as the technical foundation for the subsequent GenRyu and GenWan series.
 
 ### 🌟 Key Enhancements in Ver 2.0 / 2.1
 
